@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="mur508m5X_jwCqMRshSt">
-        <mxGraphModel dx="845" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="650" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -51,8 +51,8 @@
                 <mxCell id="jHW5QTi4tp8FlqwxSj9M-23" value="&lt;font face=&quot;Georgia&quot;&gt;vii°(b)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=none;fontSize=11;" parent="1" vertex="1">
                     <mxGeometry x="170" y="70" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="jHW5QTi4tp8FlqwxSj9M-24" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;Chord progressions - major keys&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=none;align=left;fontSize=16;" parent="1" vertex="1">
-                    <mxGeometry x="20" y="20" width="280" height="20" as="geometry"/>
+                <mxCell id="jHW5QTi4tp8FlqwxSj9M-24" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;Chord progressions - major keys&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=none;align=left;fontSize=16;verticalAlign=bottom;" parent="1" vertex="1">
+                    <mxGeometry x="20" width="280" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="jHW5QTi4tp8FlqwxSj9M-25" value="&lt;font face=&quot;Georgia&quot;&gt;V&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=none;fontSize=11;" parent="1" vertex="1">
                     <mxGeometry x="185" y="130" width="20" height="20" as="geometry"/>
@@ -227,8 +227,8 @@
                 <mxCell id="VI7gGtG0Ybjiox6EfNQp-4" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;Chord progressions - borrowed chords&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=none;align=left;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="20" y="600" width="350" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="VI7gGtG0Ybjiox6EfNQp-5" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;* - cinematic&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=none;align=left;verticalAlign=bottom;" parent="1" vertex="1">
-                    <mxGeometry x="20" y="790" width="160" height="20" as="geometry"/>
+                <mxCell id="VI7gGtG0Ybjiox6EfNQp-5" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;* - cinematic&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry y="790" width="100" height="37" as="geometry"/>
                 </mxCell>
                 <mxCell id="VI7gGtG0Ybjiox6EfNQp-6" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Georgia&quot;&gt;I-IV-vi-V mr. Brightside&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Georgia&quot;&gt;I-ii-IV-V major scale&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Georgia&quot;&gt;I-IV-I-V&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;IV-V-I-vi&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;I-IV-V-IV&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;I-V-vi-iii-IV-I-IV-V Pachelbel&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;vi-ii-V-I&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;I-ii-IV-I what&#39;s up&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
                     <mxGeometry x="180" y="160" width="160" height="140" as="geometry"/>
@@ -1355,9 +1355,9 @@
                         <mxGeometry x="1000" y="800" width="160" height="10" as="geometry"/>
                     </mxCell>
                 </UserObject>
-                <UserObject label="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;v2 by evgeniyp&lt;/span&gt;" link="https://github.com/evgeniyp/harmony" linkTarget="_blank" id="xq9ivFIgHH3GtAWabPNK-301">
-                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=right;verticalAlign=bottom;fontColor=#E6E6E6;fontStyle=0;fontSize=5;fontFamily=Georgia;" parent="1" vertex="1">
-                        <mxGeometry x="1000" y="810" width="160" height="10" as="geometry"/>
+                <UserObject label="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;v2 by evgeniyp&lt;/span&gt;" link="https://github.com/evgeniyp/harmony-cheatsheet" linkTarget="_blank" id="xq9ivFIgHH3GtAWabPNK-301">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#E6E6E6;fontStyle=0;fontSize=5;fontFamily=Georgia;" parent="1" vertex="1">
+                        <mxGeometry x="1115" y="803" width="54" height="24" as="geometry"/>
                     </mxCell>
                 </UserObject>
             </root>
